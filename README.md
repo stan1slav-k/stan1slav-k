@@ -24,6 +24,8 @@
 
 #### 1. Telegram memes channels reposts analysis
 
+<img src="https://github.com/stan1slav-k/stan1slav-k/blob/main/graphs.gif?raw=true" height="400"/></h1>
+
 In this project, I create graph of reposts between memes channel in Telegram. To achieve this goal i made this steps:
 - Get access to Telegram via teleton library
 - Start from first input channel, I parse messages and get lists of unique reposted channels
